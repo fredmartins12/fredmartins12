@@ -1,83 +1,109 @@
-# Frederico Botelho Martins  
-**`Cientista de Dados | Analista de Dados | Desenvolvedor`**  
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+
+# Frederico Botelho Martins
+
+**Ciência de Dados & IA · 6º Período · UFPB**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Data+Science+%26+AI+Student;Machine+Learning+Enthusiast;Financial+Data+Analyst;Always+learning+something+new...)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
-## 👤 **Perfil**  
-📌 **Localização:** João Pessoa, Brasil  
-🎂 **Idade:** 21 anos  
-🎓 **Formação:** Bacharelado em Ciência de Dados e IA (6º semestre)  
-🔍 **Objetivo:** Atuar na área financeira, com foco em instituições bancárias, aplicando análise de dados para estratégias inovadoras.  
+## Sobre mim
 
-Sou um profissional dedicado, com experiência em gestão de operações, análise de dados e desenvolvimento de software. Saí de casa aos 14 anos em busca de oportunidades e hoje busco consolidar minha carreira combinando habilidades técnicas e soft skills como liderança, comunicação e proatividade.
-
----
-
-## 🛠️ **Competências Técnicas**  
-**Linguagens & Ferramentas:**  
-`Python` | `R` | `SQL` | `C/C++` | `Excel` | `Microsoft Azure`  
-
-**Habilidades:**  
-- Análise preditiva e visualização de dados  
-- Gestão de bancos de dados  
-- Desenvolvimento de software  
-- Automação de processos  
-
-**Soft Skills:**  
-✅ Liderança | ✅ Trabalho em equipe | ✅ Pensamento analítico  
-✅ Adaptabilidade | ✅ Comunicação clara | 🎯 Foco em resultados  
+```python
+frederico = {
+    "localização":  "João Pessoa, PB — Brasil",
+    "formação":     "Bacharelado em Ciência de Dados e IA (UFPB, 2023–2027)",
+    "período":      "6º semestre",
+    "foco":         ["Machine Learning", "Análise Financeira", "Otimização"],
+    "certificações": ["AZ-900 Microsoft Azure", "Bootcamp Data Science Santander"],
+    "objetivo":     "Atuar em instituições financeiras com soluções baseadas em dados",
+    "idiomas":      ["Português (Nativo)", "Inglês (Intermediário)", "Espanhol (Básico)"],
+}
+```
 
 ---
 
-## 💼 **Experiência Profissional**  
-### **Gerente | Agrofilho** (Fev 2020 – Abr 2023)  
-- Gestão de operações, finanças e vendas em empresa do interior.  
-- Otimização de processos e retenção de clientes.  
+## Stack
 
-### **Estágio Técnico Agrícola | Agrofilho** (Mar 2023 – Abr 2023)  
-- Controle de estoque, monitoramento de produção e gestão sustentável.  
+<div align="center">
 
----
+### Linguagens
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-## 📚 **Formação Acadêmica**  
-- **Bacharelado em Ciência de Dados e IA**  
-  Universidade Federal da Paraíba (Jul 2023 – Jul 2027)  
+### Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-- **Ensino Médio com Técnico em Agropecuária**  
-  Instituto Federal Baiano (Fev 2019 – Jun 2023)  
+### Cloud & Ferramentas
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
----
-
-## 📜 **Certificações**  
-- **AZ-900: Microsoft Azure Fundamentals** (Dez 2024 – Fev 2025)  
-- **Bootcamp Data Science | Santander** (Out 2024 – Out 2025)  
-- **Fundamentos de Python para Data Science | Data Science Academy** (Fev 2025)  
-
-
-## 🌐 **Contato**  
-📧 **E-mail:** [fredericobmartins@gmail.com](mailto:fredericobmartins@gmail.com)  
-📱 **Telefone:** +55 (77) 98125-8479  
-🔗 **GitHub:** [github.com/fredericobmartins](https://github.com/fredericobmartins)  
-📸 **Instagram:** [@fredericobmartins](https://instagram.com/fredericobmartins)  
+</div>
 
 ---
 
-## 🎯 **Objetivo Profissional**  
-Busco contribuir para **instituições financeiras** com soluções baseadas em dados, almejando a certificação **CPA-20** para aprimorar minha expertise no setor bancário.  
+## Estatísticas
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=fredmartins12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredmartins12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fredmartins12&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
-⚽ **Hobbies:** Futsal | Jiu-jitsu | Academia | Projetos Pessoais de Programação  
-🌱 **Idiomas:** Português (Nativo) | Inglês (Intermediário) | Espanhol (Básico)  
+## Projetos em Destaque
 
-<!---
-fredmartins12/fredmartins12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| [📍 Logradouros JP](https://github.com/fredmartins12/trabalho_pratico_cadeiraONl) | Similaridade textual de ruas com Regressão Logística e Método de Newton | `Python` `ML` `NLP` |
+| [📊 Visualização Cancer GBD](https://github.com/fredmartins12/visualizacao-de-dados) | Análise exploratória global do câncer — GBD 2023 | `Python` `Pandas` `Seaborn` |
+| [💰 Gestor Financeiro](https://github.com/fredmartins12/gestor-financeiro-saas) | SaaS de gestão financeira para apostas esportivas | `Python` `Flask` `SQLite` |
+| [🐮 MilkShow](https://github.com/fredmartins12/MilkShow) | Sistema de gestão leiteira enterprise | `Python` |
+| [🏗️ Estruturas de Dados](https://github.com/fredmartins12/Estrutura_de_dados) | Atividades da cadeira de Estruturas de Dados | `C++` |
+
+---
+
+## Formação & Certificações
+
+```
+🎓 Bacharelado em Ciência de Dados e IA — UFPB (2023 – 2027)  [6º período]
+☁️ AZ-900: Microsoft Azure Fundamentals                         [2024]
+📊 Bootcamp Data Science — Santander                            [2024]
+🐍 Fundamentos de Python para Data Science — DSA                [2025]
+```
+
+---
+
+## Contato
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/fredericobmartins@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fredericobmartins@gmail.com)
+[![GitHub](https://img.shields.io/badge/fredmartins12-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fredmartins12)
+
+📍 João Pessoa, PB · 🎯 Open to internships & research opportunities
+
+</div>
+
+---
+
+<div align="center">
+  <sub>⚽ Futsal · 🥋 Jiu-jitsu · 💻 Projetos de Programação</sub>
+</div>
