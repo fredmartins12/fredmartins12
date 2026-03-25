@@ -12,8 +12,8 @@
 
 ## 👤 **Perfil**  
 📌 **Localização:** João Pessoa, Brasil  
-🎂 **Idade:** 20 anos  
-🎓 **Formação:** Bacharelado em Ciência de Dados e IA (4º semestre)  
+🎂 **Idade:** 21 anos  
+🎓 **Formação:** Bacharelado em Ciência de Dados e IA (6º semestre)  
 🔍 **Objetivo:** Atuar na área financeira, com foco em instituições bancárias, aplicando análise de dados para estratégias inovadoras.  
 
 Sou um profissional dedicado, com experiência em gestão de operações, análise de dados e desenvolvimento de software. Saí de casa aos 14 anos em busca de oportunidades e hoje busco consolidar minha carreira combinando habilidades técnicas e soft skills como liderança, comunicação e proatividade.
