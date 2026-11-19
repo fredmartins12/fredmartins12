@@ -4,7 +4,7 @@ Ciência de Dados e Inteligência Artificial, UFPB (8º período)
 
 Construo automações e agentes de IA para problemas reais de negócio, do protótipo ao produto em produção. Tenho experiência prática com a API da Claude (Anthropic), engenharia de prompt, automação de processos e redes neurais em PyTorch.
 
-Tenho interesse especial por finanças e por decisões tomadas a partir de dados: análise de dados, visualização de dados e banco de dados aparecem na maioria dos projetos que construo.
+Tenho interesse especial por finanças e por decisões tomadas a partir de dados: análise de dados, visualização de dados e banco de dados aparecem na maioria dos projetos que construo. Também sou empolgado com visão computacional e aprendizado de máquina.
 
 ## Sobre mim
 
@@ -13,7 +13,7 @@ frederico = {
     "localização":  "João Pessoa, PB, Brasil",
     "formação":      "Bacharelado em Ciência de Dados e IA (UFPB, 2023-2027)",
     "período":       "8º semestre",
-    "foco":          ["Agentes de IA", "LLMs", "Análise de Dados", "Automação de Processos", "PLN"],
+    "foco":          ["Agentes de IA", "LLMs", "Análise de Dados", "Visão Computacional", "Automação de Processos", "PLN"],
     "em_produção":   "Automação de conciliação bancária, 1.100+ lançamentos processados",
     "idiomas":       ["Português (nativo)", "Inglês (leitura técnica)", "Libras (7.8)"],
 }
@@ -32,7 +32,7 @@ frederico = {
 
 ## Stack
 
-**IA e LLMs:** API da Claude (Anthropic), PyTorch, Transformers, Prompt Engineering, PLN
+**IA e LLMs:** API da Claude (Anthropic), PyTorch, Transformers, Prompt Engineering, PLN, Visão Computacional, Aprendizado de Máquina
 
 **Dados:** Análise de Dados, Visualização de Dados, SQL, Banco de Dados
 
