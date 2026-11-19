@@ -4,6 +4,8 @@ Ciência de Dados e Inteligência Artificial, UFPB (8º período)
 
 Construo automações e agentes de IA para problemas reais de negócio, do protótipo ao produto em produção. Tenho experiência prática com a API da Claude (Anthropic), engenharia de prompt, automação de processos e redes neurais em PyTorch.
 
+Tenho interesse especial por finanças e por decisões tomadas a partir de dados: análise de dados, visualização de dados e banco de dados aparecem na maioria dos projetos que construo.
+
 ## Sobre mim
 
 ```python
@@ -11,7 +13,7 @@ frederico = {
     "localização":  "João Pessoa, PB, Brasil",
     "formação":      "Bacharelado em Ciência de Dados e IA (UFPB, 2023-2027)",
     "período":       "8º semestre",
-    "foco":          ["Agentes de IA", "LLMs", "Automação de Processos", "PLN"],
+    "foco":          ["Agentes de IA", "LLMs", "Análise de Dados", "Automação de Processos", "PLN"],
     "em_produção":   "Automação de conciliação bancária, 1.100+ lançamentos processados",
     "idiomas":       ["Português (nativo)", "Inglês (leitura técnica)", "Libras (7.8)"],
 }
@@ -26,15 +28,17 @@ frederico = {
 | [AgroSele-MilkQA](https://github.com/fredmartins12/AgroSele-MilkQA) | Seleção de resposta em PLN para pecuária leiteira a partir de dataset real (Embrapa Gado de Leite): comparação entre busca lexical, embeddings semânticos (BERTimbau) e fine-tuning, com 6 variantes testadas | PyTorch, Transformers |
 | [text-similarity-addresses-nlp](https://github.com/fredmartins12/text-similarity-addresses-nlp) | Similaridade textual entre logradouros com regressão logística e otimização não-linear | Python, NLP |
 | BoiGordo *(privado)* | Sistema de gestão de gado de corte | FastAPI, Firebase, React |
-| Odds Monitor *(privado)* | SaaS de monitoramento de dados em tempo real, com clientes pagantes ativos | Python, Flask, SQLite |
+| Odds Monitor *(privado)* | SaaS de monitoramento de dados em tempo real para decisões no mercado de apostas esportivas, com clientes pagantes ativos | Python, Flask, SQLite |
 
 ## Stack
 
 **IA e LLMs:** API da Claude (Anthropic), PyTorch, Transformers, Prompt Engineering, PLN
 
+**Dados:** Análise de Dados, Visualização de Dados, SQL, Banco de Dados
+
 **Linguagens:** Python, SQL, JavaScript
 
-**Backend e dados:** FastAPI, Flask, Firebase, SQLite, Playwright
+**Backend:** FastAPI, Flask, Firebase, SQLite, Playwright
 
 ## Contato
 
