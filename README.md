@@ -1,109 +1,43 @@
-<div align="center">
-
 # Frederico Botelho Martins
 
-**Ciência de Dados & IA · 6º Período · UFPB**
+Ciência de Dados e Inteligência Artificial — UFPB (8º período)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Data+Science+%26+AI+Student;Machine+Learning+Enthusiast;Financial+Data+Analyst;Always+learning+something+new...)](https://git.io/typing-svg)
-
-</div>
-
----
+Construo automações e agentes de IA que resolvem problemas reais de negócio: do protótipo ao produto em produção. Experiência prática com a API da Claude (Anthropic), engenharia de prompt, automação de processos e redes neurais em PyTorch.
 
 ## Sobre mim
 
 ```python
 frederico = {
     "localização":  "João Pessoa, PB — Brasil",
-    "formação":     "Bacharelado em Ciência de Dados e IA (UFPB, 2023–2027)",
-    "período":      "6º semestre",
-    "foco":         ["Machine Learning", "Análise Financeira", "Otimização"],
-    "certificações": ["AZ-900 Microsoft Azure", "Bootcamp Data Science Santander"],
-    "objetivo":     "Atuar em instituições financeiras com soluções baseadas em dados",
-    "idiomas":      ["Português (Nativo)", "Inglês (Intermediário)", "Espanhol (Básico)"],
+    "formação":      "Bacharelado em Ciência de Dados e IA (UFPB, 2023–2027)",
+    "período":       "8º semestre",
+    "foco":          ["Agentes de IA", "LLMs", "Automação de Processos", "PLN"],
+    "em_produção":   "Automação de conciliação bancária — 1.100+ lançamentos processados",
+    "idiomas":       ["Português (nativo)", "Inglês (leitura técnica)", "Libras (7.8)"],
 }
 ```
 
----
+## Projetos
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [conciliacao-bancaria-automatizada](https://github.com/fredmartins12/conciliacao-bancaria-automatizada) | Automação de conciliação bancária: parser de extratos CSV/OFX, motor de classificação contábil por regras e integração direta com o Conta Azul via automação de browser. Mais de 1.100 lançamentos processados. | Python, Playwright, API Claude |
+| [MilkShow](https://github.com/fredmartins12/MilkShow) | Sistema de gestão para fazendas leiteiras operado via WhatsApp — o produtor manda mensagem em linguagem natural e a IA registra produção, lançamentos financeiros e protocolos sanitários | FastAPI, Firebase, React, Groq/Gemini/Claude |
+| [AgroSele-MilkQA](https://github.com/fredmartins12/AgroSele-MilkQA) | Comparação científica entre busca lexical (TF-IDF, BM25), embeddings semânticos (BERTimbau) e fine-tuning para seleção de resposta em PLN — nota 10.0, UFPB | PyTorch, Transformers |
+| [text-similarity-addresses-nlp](https://github.com/fredmartins12/text-similarity-addresses-nlp) | Similaridade textual entre logradouros com regressão logística e otimização não-linear | Python, NLP |
+| BoiGordo *(privado)* | Sistema de gestão de gado de corte | FastAPI, Firebase, React |
+| Odds Monitor *(privado)* | SaaS de monitoramento de dados em tempo real, com clientes pagantes ativos | Python, Flask, SQLite |
 
 ## Stack
 
-<div align="center">
+**IA e LLMs:** API da Claude (Anthropic), PyTorch, Transformers, Prompt Engineering, PLN
 
-### Linguagens
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+**Linguagens:** Python, SQL, JavaScript
 
-### Data Science & ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### Cloud & Ferramentas
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-</div>
-
----
-
-## Estatísticas
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=fredmartins12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredmartins12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fredmartins12&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## Projetos em Destaque
-
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| [📍 Logradouros JP](https://github.com/fredmartins12/trabalho_pratico_cadeiraONl) | Similaridade textual de ruas com Regressão Logística e Método de Newton | `Python` `ML` `NLP` |
-| [📊 Visualização Cancer GBD](https://github.com/fredmartins12/visualizacao-de-dados) | Análise exploratória global do câncer — GBD 2023 | `Python` `Pandas` `Seaborn` |
-| [💰 Gestor Financeiro](https://github.com/fredmartins12/gestor-financeiro-saas) | SaaS de gestão financeira para apostas esportivas | `Python` `Flask` `SQLite` |
-| [🐮 MilkShow](https://github.com/fredmartins12/MilkShow) | Sistema de gestão leiteira enterprise | `Python` |
-| [🏗️ Estruturas de Dados](https://github.com/fredmartins12/Estrutura_de_dados) | Atividades da cadeira de Estruturas de Dados | `C++` |
-
----
-
-## Formação & Certificações
-
-```
-🎓 Bacharelado em Ciência de Dados e IA — UFPB (2023 – 2027)  [6º período]
-☁️ AZ-900: Microsoft Azure Fundamentals                         [2024]
-📊 Bootcamp Data Science — Santander                            [2024]
-🐍 Fundamentos de Python para Data Science — DSA                [2025]
-```
-
----
+**Backend e dados:** FastAPI, Flask, Firebase, SQLite, Playwright
 
 ## Contato
 
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/fredericobmartins@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fredericobmartins@gmail.com)
-[![GitHub](https://img.shields.io/badge/fredmartins12-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fredmartins12)
-
-📍 João Pessoa, PB · 🎯 Open to internships & research opportunities
-
-</div>
-
----
-
-<div align="center">
-  <sub>⚽ Futsal · 🥋 Jiu-jitsu · 💻 Projetos de Programação</sub>
-</div>
+E-mail: fredericobmartins@gmail.com
+LinkedIn: [linkedin.com/in/fredmartins12](https://www.linkedin.com/in/fredmartins12)
+João Pessoa, PB — aberto a estágio e oportunidades em IA aplicada
