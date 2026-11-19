@@ -22,8 +22,8 @@ frederico = {
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [conciliacao-bancaria-automatizada](https://github.com/fredmartins12/conciliacao-bancaria-automatizada) | Automação de conciliação bancária: parser de extratos CSV/OFX, motor de classificação contábil por regras e integração direta com o Conta Azul via automação de browser. Mais de 1.100 lançamentos processados. | Python, Playwright, API Claude |
-| [MilkShow](https://github.com/fredmartins12/MilkShow) | Sistema de gestão para fazendas leiteiras operado via WhatsApp — o produtor manda mensagem em linguagem natural e a IA registra produção, lançamentos financeiros e protocolos sanitários | FastAPI, Firebase, React, Groq/Gemini/Claude |
-| [AgroSele-MilkQA](https://github.com/fredmartins12/AgroSele-MilkQA) | Comparação científica entre busca lexical (TF-IDF, BM25), embeddings semânticos (BERTimbau) e fine-tuning para seleção de resposta em PLN — nota 10.0, UFPB | PyTorch, Transformers |
+| [MilkShow](https://github.com/fredmartins12/MilkShow) | Sistema de gestão para fazendas leiteiras operado via WhatsApp — o produtor manda mensagem em linguagem natural e a IA registra produção, lançamentos financeiros e protocolos sanitários. Em produção, um agente RAG (busca sobre o MilkQA + geração via Groq) responde dúvidas gerais do produtor. | FastAPI, Firebase, React, Groq/Gemini/Claude |
+| [AgroSele-MilkQA](https://github.com/fredmartins12/AgroSele-MilkQA) | Seleção de resposta em PLN para pecuária leiteira a partir de dataset real (Embrapa Gado de Leite): comparação entre busca lexical, embeddings semânticos (BERTimbau) e fine-tuning — 6 variantes testadas | PyTorch, Transformers |
 | [text-similarity-addresses-nlp](https://github.com/fredmartins12/text-similarity-addresses-nlp) | Similaridade textual entre logradouros com regressão logística e otimização não-linear | Python, NLP |
 | BoiGordo *(privado)* | Sistema de gestão de gado de corte | FastAPI, Firebase, React |
 | Odds Monitor *(privado)* | SaaS de monitoramento de dados em tempo real, com clientes pagantes ativos | Python, Flask, SQLite |
